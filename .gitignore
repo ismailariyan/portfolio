@@ -3,7 +3,7 @@ logs
 *.log
 
 # Build files generated from Parcel
-dist
+
 
 # Dependency directories
 node_modules/

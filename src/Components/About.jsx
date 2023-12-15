@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionate about technology since childhood, I'm pursuing Computer Science and Engineering (CSE) to deepen my knowledge. Proficient in languages like C, Java, JavaFX, and DART, I'm driven by a keen interest in app development. As a competitive programmer, I constantly seek challenges, and I'm also delving into NLP and AI research. Currently an ICE student, I channel my dedication into fueling my ambitions in technology and entrepreneurship. Join me in exploring and creating in the ever-evolving tech landscape.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Mobile App Development",
+  "Problem Solving",
+  "Hardware design and Prototyping",
+  "Iot Development",
+  "Azure Cloud Computing",
+  "Graphic design and Video Editing",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "In the algorithmic symphony of binary orchestrations, we decipher the poetry of logic, where each line of code is a profound verse, and every bug encountered is a puzzle urging us to refine our art of problem-solving.";
 
 const About = () => {
   return (
